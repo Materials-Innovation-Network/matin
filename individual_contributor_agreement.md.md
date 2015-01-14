@@ -6,13 +6,13 @@ This contributor agreement ("Agreement") documents the rights granted by contrib
 
 ##1. Definitions
 
-        "You" means the individual who Submits a Contribution to Us.
+"You" means the individual who Submits a Contribution to Us.
 
-        "Contribution" means any work of authorship that is Submitted by You to Us in which You own or assert ownership of the Copyright. If You do not own the Copyright in the entire work of authorship, please follow the instructions in [NONOWNER_INSTRUCTIONS].
+"Contribution" means any work of authorship that is Submitted by You to Us in which You own or assert ownership of the Copyright. If You do not own the Copyright in the entire work of authorship, please follow the instructions in https://github.com/Materials-Innovation-Network/matin/blob/master/README.md.
 
-        "Copyright" means all rights protecting works of authorship owned or controlled by You, including copyright, moral and neighboring rights, as appropriate, for the full term of their existence including any extensions by You.
+"Copyright" means all rights protecting works of authorship owned or controlled by You, including copyright, moral and neighboring rights, as appropriate, for the full term of their existence including any extensions by You.
 
-        "Material" means the work of authorship which is made available by Us to third parties. When this Agreement covers more than one software project, the Material means the work of authorship to which the Contribution was Submitted. After You Submit the Contribution, it may be included in the Material.
+"Material" means the work of authorship which is made available by Us to third parties. When this Agreement covers more than one software project, the Material means the work of authorship to which the Contribution was Submitted. After You Submit the Contribution, it may be included in the Material.
 
         "Submit"  means any form of electronic, verbal, or written communication sent to Us or our representatives, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us for the purpose of discussing and improving the Material, but excluding communication that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution."
 
@@ -64,7 +64,7 @@ You confirm that:
 
 (c) The grant of rights under Section 2 does not violate any grant of rights which You have made to third parties, including Your employer.  If You are an employee, You have had Your employer approve this Agreement or sign the Entity version of this document.  If You are less than eighteen years old, please have Your parents or guardian sign the Agreement.
 
-(d) You have followed the instructions in [NONOWNER_INSTRUCTIONS], if You do not own the Copyright in the entire work of authorship Submitted.
+(d) You have followed the instructions in https://github.com/Materials-Innovation-Network/matin/blob/master/README.md, if You do not own the Copyright in the entire work of authorship Submitted.
 
 ##4. Disclaimer
 
